@@ -1,0 +1,333 @@
+D:\Secret\PRPR\PRPR\bin\Debug\PRPR.exe.config
+D:\Secret\PRPR\PRPR\bin\Debug\PRPR.exe
+D:\Secret\PRPR\PRPR\bin\Debug\PRPR.pdb
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.csproj.AssemblyReference.cache
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.Properties.Resources.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.csproj.GenerateResource.cache
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.csproj.CoreCompileInputs.cache
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.exe
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.pdb
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FLogin.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FGetMail.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FGetOTP.resources
+D:\Secret\PRPR\PRPR\bin\Debug\System.Data.SqlClient.dll
+D:\Secret\PRPR\PRPR\bin\Debug\System.Data.SqlClient.xml
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FUpdatePass.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FSinhVien.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FGiangVien.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FInfor.resources
+D:\Secret\PRPR\PRPR\bin\Debug\ControlLibrary.dll
+D:\Secret\PRPR\PRPR\bin\Debug\ControlLibrary.pdb
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FUpdateInfor.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FReadLetterSV.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FSignUp.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FDetailsSignUp.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FInforGV.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FAddAnounce.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FListStudent.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FReport.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FDetailsReport.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FProjetGV.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FAddTask.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FAddProeject.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.csproj.Up2Date
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FUpdateInforGV.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FFollow.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FDetailsProcess.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FMarkGV.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FThongKe.resources
+D:\Secret\PRPR\PRPR\obj\Debug\PRPR.FMarkSV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\PRPR.exe.config
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\PRPR.exe
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\PRPR.pdb
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\ControlLibrary.dll
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\ControlLibrary.pdb
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.csproj.AssemblyReference.cache
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FAddAnounce.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FAddProeject.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FAddTask.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FDetailsProcess.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FDetailsReport.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FDetailsSignUp.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FFollow.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FGetMail.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FGetOTP.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FGiangVien.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FInfor.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FInforGV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FLogin.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FMarkGV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FMarkSV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FProjetGV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FReadLetterSV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FReport.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FSignUp.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FSinhVien.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FThongKe.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FUpdateInfor.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FUpdateInforGV.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.FUpdatePass.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.Properties.Resources.resources
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.csproj.GenerateResource.cache
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.csproj.CoreCompileInputs.cache
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.csproj.Up2Date
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.exe
+C:\Users\kietd\Downloads\PRPR - Copy\PRPR\obj\Debug\PRPR.pdb
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.csproj.AssemblyReference.cache
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FAddAnounce.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FAddProeject.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FAddTask.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FDetailsProcess.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FDetailsReport.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FDetailsSignUp.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FFollow.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FGetMail.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FGetOTP.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FGiangVien.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FInfor.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FInforGV.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FLogin.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FMarkGV.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FMarkSV.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FProjetGV.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FReadLetterSV.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FReport.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FSignUp.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FSinhVien.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FThongKe.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FUpdateInfor.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FUpdateInforGV.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.FUpdatePass.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.Properties.Resources.resources
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.csproj.GenerateResource.cache
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.csproj.CoreCompileInputs.cache
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.exe
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.pdb
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\PRPR.exe.config
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\PRPR.exe
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\PRPR.pdb
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\ControlLibrary.dll
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\System.Data.SqlClient.dll
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\ControlLibrary.pdb
+D:\DACK_WINFORM\PRPR\PRPR\bin\Debug\System.Data.SqlClient.xml
+D:\DACK_WINFORM\PRPR\PRPR\obj\Debug\PRPR.csproj.Up2Date
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\PRPR.exe.config
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\PRPR.exe
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\PRPR.pdb
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Core.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Identity.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ControlLibrary.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Buffers.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ClientModel.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.Data.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Numerics.Vectors.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.AccessControl.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Permissions.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Principal.Windows.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Encodings.Web.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Json.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ValueTuple.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ControlLibrary.pdb
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ControlLibrary.dll.config
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Core.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Identity.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Buffers.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ClientModel.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.Data.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Numerics.Vectors.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.AccessControl.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Permissions.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Principal.Windows.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Encodings.Web.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Json.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ValueTuple.xml
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.AssemblyReference.cache
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FAddAnounce.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FAddProeject.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FAddTask.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FDetailsProcess.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FDetailsReport.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FDetailsSignUp.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FFollow.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FGetMail.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FGetOTP.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FGiangVien.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FInfor.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FInforGV.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FLogin.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FMarkGV.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FMarkSV.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FProjetGV.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FReadLetterSV.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FReport.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FSignUp.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FSinhVien.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FThongKe.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FUpdateInfor.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FUpdateInforGV.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FUpdatePass.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.Properties.Resources.resources
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.GenerateResource.cache
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.CoreCompileInputs.cache
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.Up2Date
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.exe
+D:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.pdb
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Data.SqlClient.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Data.SqlClient.xml
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Do_An_CNTT\PRPR\PRPR\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\PRPR.exe.config
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\PRPR.exe
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\PRPR.pdb
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Core.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Identity.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ControlLibrary.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Buffers.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ClientModel.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Data.SqlClient.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.Data.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Numerics.Vectors.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.AccessControl.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Permissions.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Principal.Windows.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Encodings.Web.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Json.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ValueTuple.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ControlLibrary.pdb
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ControlLibrary.dll.config
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Core.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Azure.Identity.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Buffers.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ClientModel.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Data.SqlClient.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Memory.Data.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Numerics.Vectors.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.AccessControl.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Permissions.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Security.Principal.Windows.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Encodings.Web.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Text.Json.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\System.ValueTuple.xml
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.AssemblyReference.cache
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FAddAnounce.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FAddProeject.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FAddTask.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FDetailsProcess.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FDetailsReport.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FDetailsSignUp.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FFollow.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FGetMail.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FGetOTP.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FGiangVien.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FInfor.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FInforGV.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FLogin.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FMarkGV.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FMarkSV.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FProjetGV.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FReadLetterSV.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FReport.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FSignUp.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FSinhVien.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FThongKe.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FUpdateInfor.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FUpdateInforGV.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.FUpdatePass.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.Properties.Resources.resources
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.GenerateResource.cache
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.CoreCompileInputs.cache
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.csproj.Up2Date
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.exe
+E:\Do_An_CNTT\PRPR\PRPR\obj\Debug\PRPR.pdb
